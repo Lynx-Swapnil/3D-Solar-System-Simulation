@@ -1,8 +1,8 @@
-# ![Solar System](https://lynx-swapnil.github.io/solar-system3D/image/solar-system.png) Solar System 3D Visualization using Three.js
+# ![Solar System](https://github.com/Lynx-Swapnil/3D-Solar-System-Simulation/blob/main/image/solar-system.png) Solar System 3D Visualization using Three.js
 
 Explore the wonders of our Solar System in an immersive 3D experience! Witness the rotation of planets around the Sun and their self-rotation in this interactive web-based application developed using Three.js.
 
-![](https://lynx-swapnil.github.io/solar-system3D/gif/display.gif)
+![](https://github.com/Lynx-Swapnil/3D-Solar-System-Simulation/blob/main/gif/display.gif)
 
 ## Table of Contents
 
